@@ -10,8 +10,8 @@ export default function CreditPage() {
 
         <div className="space-y-4 text-lg font-medium mb-10">
           <div>🔹 Phongphit Thongchuenjit 6609684</div>
-          <div>🔹 Name 2</div>
-          <div>🔹 Name 3</div>
+          <div>🔹 Jirat Jarkong 6609504</div>
+          <div>🔹 Pachardanai Pattaravarennon 6606442</div>
         </div>
 
         <div className="text-sm text-gray-400 whitespace-pre-line">
